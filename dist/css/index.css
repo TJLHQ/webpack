@@ -1,0 +1,1 @@
+body{background:red}#root{background:url(http://localhost:8888/images/1.min.jpg) no-repeat 50%;background-size:contain;width:100%;height:500px;-webkit-transform:translate(1px,1px);transform:translate(1px,1px)}#root .img{width:100%;height:300px}#root p{color:#00f}#root .bb{background:pink}
